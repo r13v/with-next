@@ -1,0 +1,16 @@
+{
+  "login": {
+    "title": "",
+    "button": ""
+  },
+  "dashboard": {
+    "title": "",
+    "greeting": ""
+  },
+  "base-layout": {
+    "header": {
+      "logo": "",
+      "logout": ""
+    }
+  }
+}
